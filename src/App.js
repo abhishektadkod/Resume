@@ -28,7 +28,7 @@ function App() {
     
 
     <br/><br/>
-    <div class="display-4">AND REACT&nbsp;<span style={{color: "red"}}>&hearts;</span></div>
+    <div class="display-4">Made Using ReactJS&nbsp;<span style={{color: "red"}}>&hearts;</span></div>
      
 
     
