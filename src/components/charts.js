@@ -75,11 +75,7 @@ class Chart extends React.Component{
       render() {
         return (
           <div>
-            <Pie  data={this.state.dataPolar} options={{ responsive: true }} onElementsClick={elems => {
-  
-    console.log(this.state.dataPolar.labels[elems[0]._index]);
-    window.location = "/";}
-    }/>
+            <Pie  data={this.state.dataPolar} options={{ responsive: true }} />
           </div>
         );
       }
