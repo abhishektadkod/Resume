@@ -23,6 +23,7 @@ class Chart extends React.Component{
              
                       <h1 className="text-center my-2">Proficiency in different Programming Languages</h1>
                       <PolarChartsPage></PolarChartsPage>
+                      <br/>Based on number of projects in each programming language
   
         
               </div>
@@ -75,11 +76,7 @@ class Chart extends React.Component{
       render() {
         return (
           <div>
-            <Pie  data={this.state.dataPolar} options={{ responsive: true }} onElementsClick={elems => {
-  
-    console.log(this.state.dataPolar.labels[elems[0]._index]);
-    window.location = "/";}
-    }/>
+            <Pie  data={this.state.dataPolar} options={{ responsive: true }} />
           </div>
         );
       }
