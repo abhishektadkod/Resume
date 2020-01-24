@@ -33,7 +33,7 @@ class About extends React.Component{
                 
                 Mobile: +91-9148301122<br/>
                 Email ID: <a href="#">abhishektadkod@gmail.com</a><br/>
-                Linkedin: <a href="www.linkedin.com/in/abhishek-tadkod">https://www.linkedin.com/in/abhishek-tadkod137127176/</a><br/>
+                Linkedin: <a href="https://linkedin.com/in/abhishek-tadkod">https://www.linkedin.com/in/abhishek-tadkod137127176/</a><br/>
                 GitHub: <a href="https://github.com/abhishektadkod/">https://github.com/abhishektadkod/</a><br/>
                 
              </Fade>
