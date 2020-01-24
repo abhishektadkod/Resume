@@ -32,9 +32,9 @@ class About extends React.Component{
                 <h4 class="shadow p-4 mb-4 bg-white text-dark text-left 	"><Fade bottom>
                 
                 Mobile: +91-9148301122<br/>
-                Email ID: <a href="#">abhishektadkod@gmail.com</a><br/>
-                Linkedin: <a href="https://linkedin.com/in/abhishek-tadkod">https://www.linkedin.com/in/abhishek-tadkod137127176/</a><br/>
-                GitHub: <a href="https://github.com/abhishektadkod/">https://github.com/abhishektadkod/</a><br/>
+                Email ID: <a href="#"><div class="btn btn-outline-info ">abhishektadkod@gmail.com</div></a><br/>
+                <br/> Linkedin:<a href="https://linkedin.com/in/abhishek-tadkod"><div class="btn btn-outline-info">https://linkedin.com/in/abhishek-tadkod/</div></a><br/>
+                <br/> GitHub: <a href="https://github.com/abhishektadkod/"><div class="btn btn-outline-info">https://github.com/abhishektadkod/</div></a><br/>
                 
              </Fade>
              </h4>
